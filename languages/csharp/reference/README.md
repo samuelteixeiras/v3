@@ -14,8 +14,8 @@ The core OO features a C# developer should know about are:
 - Fields ✅ (exercise [`classes`][exercise-classes])
 - Indexers
 - [Inheritance][inheritance] ✅ (exercise [`inheritance`][exercise-inheritance])
-- [Interfaces][interfaces] 🚧 (issue [#1225](https://github.com/exercism/v3/issues/880))
-  - Explicit Interface Implementation 🚧 (issue [#1225](https://github.com/exercism/v3/issues/880))
+- [Interfaces][interfaces] 🚧 (issue [#1225](https://github.com/exercism/v3/issues/1225))
+  - Explicit Interface Implementation 🚧 (issue [#1225](https://github.com/exercism/v3/issues/1225))
 - [Methods][methods] ✅ (exercise [`basics`][exercise-basics])
   - Constructors ✅ (exercise [`constructors`][exercise-constructors])
   - Destructors
